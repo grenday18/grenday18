@@ -32,7 +32,6 @@ Hi, my name is Cesar Chacaliaza, I'm a Backend Developer.
   </ul>
 </div>
 <!--tech stack icons-->
-<h3 align="center">🔍Tech that's been explored🔎</h3>
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,php,ts,nextjs,vue,tailwindcss,nodejs,laravel,mongodb,mysql,postgresql,sqlite,docker,linux,git,github,vscode,postman,jest,jquery,vite,bootstrap,sentry,aws&perline=11" />
